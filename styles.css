@@ -1,0 +1,43 @@
+body {
+    background-color: #a7dbe3;
+    color: #3a1515;
+    font-size: 21px;
+}
+
+.user_form_header{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(228, 158, 18);
+    border: 10px double #ccc;
+    text-align: center;
+    align-content: center;
+}
+
+.details{
+    width: 800px;
+    height: 100px;
+    text-align: center;
+}
+
+.photo{
+    width: 800px;
+    height: 50px;
+    background-color: #ccc;
+    border: 6px solid #000;
+    padding-bottom: 50px;
+    text-align: center;
+    align-self: center;
+    font-size: 36px;
+    align-content: center ;
+}
+
+.enter{
+    background-color:  #c7c7c7;
+    border: 1px dashed #ccc;
+    width: 800px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    font-size: 24px;
+    color: #ff0000;
+}
